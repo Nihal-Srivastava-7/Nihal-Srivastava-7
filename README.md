@@ -1,3 +1,4 @@
+![logo](https://github.com/Nihal-Srivastava-7/Nihal-Srivastava-7/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nihal Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
